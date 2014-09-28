@@ -1,5 +1,5 @@
 Windows utility that displays a floating window with a battery level info.
 
-External links:
+*Code license:* GNU GPL v2
 
-* [Alfray Projects](http://www.alfray.com/projects/index.html)
+*External links:* [Alfray Projects](http://www.alfray.com/projects/index.html)
